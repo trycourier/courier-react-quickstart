@@ -17,8 +17,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@trycourier/courier": "^9.3.0",
-    "@trycourier/courier-react": "^9.3.0",
+    "@trycourier/courier": "^10.0.0",
+    "@trycourier/courier-react": "^9.3.3",
     "dotenv": "^16.4.7",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
